@@ -1,0 +1,20 @@
+<app_info>
+ <app>
+    <name>einstein_O4MD</name>
+ </app>
+ <file_info>
+   <name>eah_HierarchSearchGCT</name>
+   <executable/>
+ </file_info>
+ <app_version>
+    <app_name>einstein_O4MD</app_name>
+    <version_num>201</version_num>
+    <avg_ncpus>4.000000</avg_ncpus>
+    <cmdline>--nthreads 4</cmdline>
+    <plan_class></plan_class>
+    <file_ref>
+      <file_name>eah_HierarchSearchGCT</file_name>
+      <main_program/>
+    </file_ref>
+ </app_version>
+</app_info>
