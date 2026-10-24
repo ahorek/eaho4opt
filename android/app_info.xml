@@ -1,0 +1,49 @@
+<app_info>
+ <app>
+    <name>einsteinbinary_BRP4</name>
+ </app>
+  <app>
+    <name>hsgamma_FGRP5</name>
+  </app>
+ <file_info>
+  <name>einsteinbinary_aarch64-android-linux-gnu__opencl</name>
+  <executable/>
+ </file_info>
+ <file_info>
+   <name>wisteria</name>
+   <executable/>
+ </file_info>
+  <file_info>
+    <name>libwisteria_ocl.so</name>
+  </file_info>
+
+<app_version>
+    <app_name>einsteinbinary_BRP4</app_name>
+    <platform>aarch64-android-linux-gnu</platform>
+    <api_version>7.20.2</api_version>
+    <version_num>100</version_num>
+    <avg_ncpus>1.000000</avg_ncpus>
+    <plan_class></plan_class>
+    <file_ref>
+        <file_name>einsteinbinary_aarch64-android-linux-gnu__opencl</file_name>
+        <main_program/>
+    </file_ref>
+</app_version>
+<app_version>
+  <app_name>hsgamma_FGRP5</app_name>
+  <version_num>157</version_num>
+  <platform>aarch64-android-linux-gnu</platform>
+  <api_version>7.20.2</api_version>
+  <avg_ncpus>1</avg_ncpus>
+  <max_ncpus>1</max_ncpus>
+  <plan_class>FGRPSSE</plan_class>
+  <cmdline>--gpu 3</cmdline>
+  <file_ref>
+    <file_name>wisteria</file_name>
+    <main_program/>
+  </file_ref>
+  <file_ref>
+    <file_name>libwisteria_ocl.so</file_name>
+  </file_ref>
+</app_version>
+</app_info>
